@@ -4,7 +4,7 @@ I am Shady and I make simple projects :) <br>
 They may be useful for referencing code, I guess.
 
 ### Learning: <br>
-<img src="https://skillicons.dev/icons?i=python,javascript,cpp,coffeescript" />
+<img src="https://skillicons.dev/icons?i=python,javascript,cpp" />
 <!--
 **ShadyUPS/ShadyUPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
